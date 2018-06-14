@@ -1,0 +1,8 @@
+C:\0.Moises\TWS\TWS\Back\TWSBack\CacheModule\bin\Debug\netcoreapp2.1\CacheModule.deps.json
+C:\0.Moises\TWS\TWS\Back\TWSBack\CacheModule\bin\Debug\netcoreapp2.1\CacheModule.dll
+C:\0.Moises\TWS\TWS\Back\TWSBack\CacheModule\obj\Debug\netcoreapp2.1\CacheModule.csproj.CoreCompileInputs.cache
+C:\0.Moises\TWS\TWS\Back\TWSBack\CacheModule\obj\Debug\netcoreapp2.1\CacheModule.AssemblyInfoInputs.cache
+C:\0.Moises\TWS\TWS\Back\TWSBack\CacheModule\obj\Debug\netcoreapp2.1\CacheModule.AssemblyInfo.cs
+C:\0.Moises\TWS\TWS\Back\TWSBack\CacheModule\bin\Debug\netcoreapp2.1\CacheModule.pdb
+C:\0.Moises\TWS\TWS\Back\TWSBack\CacheModule\obj\Debug\netcoreapp2.1\CacheModule.dll
+C:\0.Moises\TWS\TWS\Back\TWSBack\CacheModule\obj\Debug\netcoreapp2.1\CacheModule.pdb

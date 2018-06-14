@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\..\..\Forms\Back\Forms\Core\TWSCore.csproj" />
+    <ProjectReference Include="..\..\..\..\..\Forms\Back\Forms\NoSqlModule\NoSqlModule.csproj" />
+    <ProjectReference Include="..\CacheModule\CacheModule.csproj" />
+    <ProjectReference Include="..\TWSServerDomain\TWSServerDomain.csproj" />
+  </ItemGroup>
+
+</Project>

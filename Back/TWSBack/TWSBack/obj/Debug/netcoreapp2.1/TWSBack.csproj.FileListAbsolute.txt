@@ -1,0 +1,11 @@
+C:\0.Moises\TWS\TWS\Back\TWSBack\TWSBack\bin\Debug\netcoreapp2.1\TWSBack.deps.json
+C:\0.Moises\TWS\TWS\Back\TWSBack\TWSBack\bin\Debug\netcoreapp2.1\TWSBack.runtimeconfig.json
+C:\0.Moises\TWS\TWS\Back\TWSBack\TWSBack\bin\Debug\netcoreapp2.1\TWSBack.runtimeconfig.dev.json
+C:\0.Moises\TWS\TWS\Back\TWSBack\TWSBack\bin\Debug\netcoreapp2.1\TWSBack.dll
+C:\0.Moises\TWS\TWS\Back\TWSBack\TWSBack\bin\Debug\netcoreapp2.1\TWSBack.pdb
+C:\0.Moises\TWS\TWS\Back\TWSBack\TWSBack\obj\Debug\netcoreapp2.1\TWSBack.csprojResolveAssemblyReference.cache
+C:\0.Moises\TWS\TWS\Back\TWSBack\TWSBack\obj\Debug\netcoreapp2.1\TWSBack.csproj.CoreCompileInputs.cache
+C:\0.Moises\TWS\TWS\Back\TWSBack\TWSBack\obj\Debug\netcoreapp2.1\TWSBack.AssemblyInfoInputs.cache
+C:\0.Moises\TWS\TWS\Back\TWSBack\TWSBack\obj\Debug\netcoreapp2.1\TWSBack.AssemblyInfo.cs
+C:\0.Moises\TWS\TWS\Back\TWSBack\TWSBack\obj\Debug\netcoreapp2.1\TWSBack.dll
+C:\0.Moises\TWS\TWS\Back\TWSBack\TWSBack\obj\Debug\netcoreapp2.1\TWSBack.pdb
